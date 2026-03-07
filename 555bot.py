@@ -3,7 +3,7 @@ import os
 from discord.ext import commands
 from discord import app_commands
 
-BOT_TOKEN = “MTQ3OTU5OTU3MTA2NjgxNDY2MA.Go9aO8.N6b3ZZQRyVqiRKV_RLB7_bGgFjHvVXrbbNsg40”
+BOT_TOKEN = MTQ3OTU5OTU3MTA2NjgxNDY2MA.Go9aO8.N6b3ZZQRyVqiRKV_RLB7_bGgFjHvVXrbbNsg40
 OWNER_ID = 1181035571678810256
 WARN_ROLE = “mod”
 
