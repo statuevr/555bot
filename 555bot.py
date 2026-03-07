@@ -97,4 +97,4 @@ async def on_ready():
 await tree.sync()
 print(f”555 Bot is online as {bot.user}”)
 
-bot.run(BOT_TOKEN)
+bot.run(os.environ["BOT_TOKEN"])
