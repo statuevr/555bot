@@ -1,9 +1,8 @@
 import discord
 import os
 from discord.ext import commands
-from discord import app_commands
+from discord import 
 
-BOT_TOKEN = os.environ.get“BOT_TOKEN”
 OWNER_ID = 1181035571678810256
 WARN_ROLE = “mod”
 
@@ -97,4 +96,5 @@ async def on_ready():
 await tree.sync()
 print(f”555 Bot is online as {bot.user}”)
 
-bot.run(BOT_TOKEN)
+bot.run(os.environ["BOT_TOKEN"])
+
