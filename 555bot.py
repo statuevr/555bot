@@ -8,7 +8,7 @@ from discord import app_commands
 
 # ─────────────────────────────────────────
 
-BOT_TOKEN   = “MTQ3OTU5OTU3MTA2NjgxNDY2MA.GgsclI.YWdrGBWOB9lgvniWKBrLiZ1lpslXouEKH_Fptc”   # Reset at discord.com/developers/applications
+BOT_TOKEN   = MTQ3OTU5OTU3MTA2NjgxNDY2MA.GgsclI.YWdrGBWOB9lgvniWKBrLiZ1lpslXouEKH_Fptc   # Reset at discord.com/developers/applications
 OWNER_ID    = 0                        # Replace with your Discord user ID (number)
 
 # Role name that is allowed to use /warn
